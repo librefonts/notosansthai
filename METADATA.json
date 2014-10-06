@@ -1,0 +1,33 @@
+{
+  "name": "Noto Sans Thai",
+  "designer": "Monotype Design team",
+  "license": "",
+  "visibility": "Sandbox",
+  "category": "monospace",
+  "size": 12610,
+  "fonts": [
+    {
+      "name": "Noto Sans Thai",
+      "style": "normal",
+      "weight": 400,
+      "filename": "NotoSansThai-Regular.ttf",
+      "postScriptName": "NotoSansThai",
+      "fullName": "Noto Sans Thai",
+      "copyright": "Digitized data copyright 2009, 2012 Google Corporation. All rights reserved"
+    },
+    {
+      "name": "Noto Sans Thai",
+      "style": "normal",
+      "weight": 700,
+      "filename": "NotoSansThai-Bold.ttf",
+      "postScriptName": "NotoSansThai-Bold",
+      "fullName": "Noto Sans Thai Bold",
+      "copyright": "Digitized data copyright 2011, 2012 Google Corporation. All rights reserved"
+    }
+  ],
+  "subsets": [
+    "latin",
+    "menu"
+  ],
+  "dateAdded": "2014-10-06"
+}
